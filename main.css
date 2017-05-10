@@ -1,0 +1,24 @@
+
+#min {
+  height: 412px;
+  width: 48px;
+  margin-left: 500px;
+  margin-top: 70px;
+  background: url(images/layer-2.png);
+  position: absolute;
+  transform: rotate(0deg);
+  transform-origin: center 329px;
+}
+
+#sec {
+  height: 353px;
+  width: 23px;
+  margin-left: 512px;
+  margin-top: 150px;
+  background: url(images/layer-3.png);
+  position: absolute;
+  transform: rotate(0deg);
+  transform-origin: center 249px;
+
+
+}
